@@ -1,2 +1,2 @@
-# WES237A_Lab1
-WES237A Lab1 Assignments
+# WES237A Labs
+This repository will be a culmination of lab assignments during WES237A.
